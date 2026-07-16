@@ -1,10 +1,10 @@
-# 🌿 Générateur de L-Système (Système de Lindenmayer)
+#  Générateur de L-Système (Système de Lindenmayer)
 
 Un générateur et visualiseur interactif de **L-systèmes (systèmes de Lindenmayer)** développé en Java. Ce projet permet de modéliser des processus de croissance organique (plantes, arbres) et de générer des fractales complexes en appliquant des règles de réécriture formelles, modélisées ensuite graphiquement grâce à un moteur de rendu basé sur la géométrie de la Tortue.
 
 ---
 
-## 🛠️ Technologies Utilisées
+##  Technologies Utilisées
 
 *   **Langage** : Java (JDK 8 ou supérieur)
 *   **Interface Graphique (GUI)** : Java Swing & AWT (composants personnalisés dans `view`)
@@ -13,7 +13,7 @@ Un générateur et visualiseur interactif de **L-systèmes (systèmes de Lindenm
 
 ---
 
-## 🚀 Fonctionnalités principales
+##  Fonctionnalités principales
 
 *   **Système de Règles Flexible (`LSystemRuler`)** : Définition de règles de réécriture complexes pour transformer l'axiome à chaque itération.
 *   **Moteur de Génération (`LSystemGenerate`)** : Évaluation rapide des chaînes de caractères et gestion des exceptions de génération (`GeneratorException`).
@@ -29,7 +29,7 @@ Un générateur et visualiseur interactif de **L-systèmes (systèmes de Lindenm
 
 ---
 
-## 📂 Structure du Projet
+##  Structure du Projet
 
 Voici l'organisation exacte des sources de l'application :
 
@@ -62,7 +62,7 @@ projet_LSystem/
 ├── App.sh                      # Script Shell de compilation et d'exécution
 └── README.md
 
-## ✍️ Auteurs
+##  Auteurs
 
 Projet de conception logicielle réalisé par :
 
